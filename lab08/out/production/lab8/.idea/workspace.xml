@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9300672-8476-46bb-98c0-c631baff1dc9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/lab8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/_template__of_JUnit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CapersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capers/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capers/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/.idea/proj2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/.idea/runConfigurations/_template__of_JUnit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/GitletTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/gitlet-design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/gitlet/Commit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/gitlet/DumpObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/gitlet/Dumpable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/gitlet/GitletException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/gitlet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/gitlet/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/gitlet/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/out/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/conflict1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/conflict2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/conflict3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/conflict4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/conflict5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/conflict6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/e.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/g.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/nota.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/notb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/notf.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/notwug.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/wug.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/wug2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/test_files/wug3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2/testing/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab06/src/students/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab06/src/students/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1c/src/deque/ArrayDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1c/src/deque/ArrayDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1c/src/deque/Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1c/src/deque/Deque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1c/src/deque/LinkedListDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1c/src/deque/LinkedListDeque.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2S6eDuQ7LySGMTId6BvAJu4TDCq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/troychoo/Desktop/cs61bl/su23-s383/lab08",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="capers.Main" />
+      <module name="lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="capers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9300672-8476-46bb-98c0-c631baff1dc9" name="Changes" comment="" />
+      <created>1688471341997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688471341997</updated>
+    </task>
+    <servers />
+  </component>
+</project>
